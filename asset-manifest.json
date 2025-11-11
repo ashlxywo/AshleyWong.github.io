@@ -1,10 +1,17 @@
 {
   "files": {
+    "main.css": "/AshleyWong.github.io/static/css/main.dd0b588d.css",
     "main.js": "/AshleyWong.github.io/static/js/main.73647c9b.js",
+    "static/media/Inter_18pt-SemiBold.ttf": "/AshleyWong.github.io/static/media/Inter_18pt-SemiBold.d52a01d17b566af4e096.ttf",
+    "static/media/proximanova_regular.ttf": "/AshleyWong.github.io/static/media/proximanova_regular.8181ca4b7c2d1189d78a.ttf",
+    "static/media/Questrial-Regular.ttf": "/AshleyWong.github.io/static/media/Questrial-Regular.e2807c3c18afed9f8f34.ttf",
+    "static/media/DMSerifText-Regular.ttf": "/AshleyWong.github.io/static/media/DMSerifText-Regular.c63bc97c84c421f39c7a.ttf",
     "index.html": "/AshleyWong.github.io/index.html",
+    "main.dd0b588d.css.map": "/AshleyWong.github.io/static/css/main.dd0b588d.css.map",
     "main.73647c9b.js.map": "/AshleyWong.github.io/static/js/main.73647c9b.js.map"
   },
   "entrypoints": [
+    "static/css/main.dd0b588d.css",
     "static/js/main.73647c9b.js"
   ]
 }
